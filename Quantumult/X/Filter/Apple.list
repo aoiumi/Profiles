@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
 DOMAIN,www-cdn.icloud.com.akadns.net,Apple
 IP-CIDR,17.0.0.0/8,Apple
+DOMAIN-SUFFIX,huobi.de,Apple
+DOMAIN-SUFFIX,huobi.vc,Apple
+DOMAIN-SUFFIX,huobi.de.com,Apple
+DOMAIN-SUFFIX,aliyuncs.com,Apple
